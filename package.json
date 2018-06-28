@@ -1,0 +1,36 @@
+{
+  "name": "coming-soon-website",
+  "version": "1.0.0",
+  "description": "A coming soon website template for mobile applications that are still in development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boxfusion/coming-soon-website.git"
+  },
+  "keywords": [
+    "template",
+    "starter",
+    "app",
+    "ios",
+    "android"
+  ],
+  "author": "MaziMuhlari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Boxfusion/coming-soon-website/issues"
+  },
+  "homepage": "https://github.com/Boxfusion/coming-soon-website#readme",
+  "dependencies": {
+    "config": "^1.29.4",
+    "connect-flash": "^0.1.1",
+    "ejs": "^2.6.1",
+    "express": "^4.16.2",
+    "express-async-errors": "^2.1.0",
+    "express-session": "^1.15.6",
+    "winston": "^2.4.0"
+  }
+}

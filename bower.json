@@ -1,0 +1,25 @@
+{
+  "name": "coming-soon-website",
+  "description": "A coming soon website template for mobile applications that are still in development.",
+  "main": "index.js",
+  "authors": [
+    "MaziMuhlari"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "template",
+    "starter",
+    "app",
+    "ios",
+    "android"
+  ],
+  "homepage": "https://github.com/Boxfusion/coming-soon-website",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
