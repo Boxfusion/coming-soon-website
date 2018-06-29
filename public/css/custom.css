@@ -99,7 +99,7 @@
   /* Bigger than 750 */
   @media (min-width: 750px) {
     .hero {
-      height: 190px;
+      height: 240px;
     }
     .hero-heading {
       font-size: 2.6rem;
@@ -135,7 +135,7 @@
       padding: 20rem 0 19rem;
     }
     .hero {
-      padding: 22rem 0;
+      padding: 17rem 0;
     }
     .hero-heading {
       font-size: 3.0rem;

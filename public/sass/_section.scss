@@ -1,6 +1,8 @@
 .section {
     &.hero {
-        background-image: url('/img/hero.jpg');
-        background-size: cover;
+        background: #ee1d25;  /* fallback for old browsers */
+        background: -webkit-linear-gradient(to right, #89216B, #ee1d25);  /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(to right, #89216B, #ee1d25); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        color: white;
     }
 }
