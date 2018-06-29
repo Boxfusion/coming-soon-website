@@ -1,0 +1,10 @@
+body {
+  font-family: "Fira Sans", sans-serif;
+}
+
+.section.hero {
+  background-image: url("/img/hero.jpg");
+  background-size: cover;
+}
+
+/*# sourceMappingURL=coming-soon-website.css.map */
